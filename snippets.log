@@ -72,3 +72,6 @@ INFO:root:Storing snippet 'test 3': 'final test'
 DEBUG:root:Snippet stored successfully.
 INFO:root:Retrieving snippet 'test 3'
 DEBUG:root:Snippet retrieved successfully.
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connecting to PostgreSQL
+DEBUG:root:Connecting to PostgreSQL
